@@ -1,1 +1,1 @@
-This readme is for anither shell task
+This new project readme
