@@ -1,1 +1,1 @@
-my third readme
+each script performs a command in shell
